@@ -1,0 +1,1 @@
+CMD /k python upload.py
